@@ -1,4 +1,4 @@
-// Copyright Ayush Singh 2021,2022. All Rights Reserved.
+// Copyright Sheharyar Abid 2021,2022. All Rights Reserved.
 // Project: folio
 // Author contact: https://www.linkedin.com/in/alphaayush/
 // This file is licensed under the MIT License.
@@ -24,6 +24,7 @@ import Footer from "@/components/common/footer";
 import TimelineSection from "@/components/home/timeline";
 import Scripts from "@/components/common/scripts";
 import AboutSection from "@/components/home/about";
+import TechnologiesSection from "@/components/home/technologies";
 
 const DEBOUNCE_TIME = 100;
 
@@ -81,6 +82,7 @@ export default function Home() {
           {renderBackdrop()}
           <HeroSection />
           <AboutSection />
+          <TechnologiesSection />
           <ProjectsSection isDesktop={isDesktop} />
           <QuoteSection />
           <SkillsSection />

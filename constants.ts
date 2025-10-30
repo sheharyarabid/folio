@@ -1,14 +1,14 @@
-// Copyright Ayush Singh 2021,2022. All Rights Reserved.
-// Project: folio
-// Author contact: https://www.linkedin.com/in/alphaayush/
+// Copyright Sheharyar Abid 2025. All Rights Reserved.
+// Project: MyFolio
+// Author contact: https://www.linkedin.com/in/sheharyarabid/
 // This file is licensed under the MIT License.
 // License text available at https://opensource.org/licenses/MIT
 
 export const METADATA = {
-  title: "Portfolio | Ayush Singh",
+  title: "Portfolio | Sheharyar Abid",
   description:
     "I bridge the gap between design and development. I take responsibility to craft an aesthetic user experience using modern frontend architecture.",
-  siteUrl: "https://ayushsingh.net/",
+  // siteUrl: "",
 };
 
 export const MENULINKS = [
@@ -35,24 +35,23 @@ export const MENULINKS = [
 ];
 
 export const TYPED_STRINGS = [
-  "I design and develop things",
-  "I develop modern frontend apps",
-  "I design dynamic user experience",
-  "I design and develop motion",
+  "I Architect Scalable Apps",
+  "I Engineer Solutions",
+  "I Craft Reactive Workflows",
+  "I Optimize Performance",
+  "I Solve Complex Problems"
 ];
 
-export const EMAIL = "ayush.singh.xda@gmail.com";
+
+
+
+export const EMAIL = "iamsheharyarabid@gmail.com";
 
 export const SOCIAL_LINKS = {
-  linkedin: "https://www.linkedin.com/in/alphaayush/",
-  github: "https://github.com/ayush013",
-  medium: "https://alphaayush.medium.com/",
-  instagram: "https://www.instagram.com/alphaayush/",
-  facebook: "https://www.facebook.com/ayush013",
-  dribbble: "https://dribbble.com/alphaayush",
-  behance: "https://www.behance.net/alphaayush/",
-  twitter: "https://twitter.com/ayush013",
-  topmate: "https://www.topmate.io/alphaayush/",
+  linkedin: "https://www.linkedin.com/in/sheharyarabid/",
+  github: "https://github.com/sheharyarabid",
+  instagram: "https://www.instagram.com/sheharyarabid/",
+  whatsapp: "https://wa.me/+923345575157",
 };
 
 export interface IProject {

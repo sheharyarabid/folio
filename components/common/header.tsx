@@ -1,4 +1,4 @@
-// Copyright Ayush Singh 2021,2022. All Rights Reserved.
+// Copyright Sheharyar Abid 2021,2022. All Rights Reserved.
 // Project: folio
 // Author contact: https://www.linkedin.com/in/alphaayush/
 // This file is licensed under the MIT License.
@@ -17,9 +17,9 @@ const Header = () => {
         <a href="#home" className="link">
           <Image
             src="/logo.svg"
-            alt="Logo - Ayush Singh"
-            width={22}
-            height={22}
+            alt="Logo - Sheharyar Abid"
+            width={40}
+            height={40}
           />
         </a>
         <nav className={`outer-menu ${menuVisible ? "menu-visible" : ""}`}>
